@@ -101,6 +101,50 @@ to_lossy_neural_compression_review_paper: <a href="https://www.arxiv.org/abs/250
     <a href="https://fast-transformers.github.io/">Docs</a>
 </div>
 
+<ul class="mb-0" style="list-style-type:none;padding-left:0;">
+  <li><span class="label label-info">11/2024</span> Defending my <a href="#theses">habilitation thesis</a>, and using the opportunity to organize <a href="./hdr/index.html">a workshop on Nov 21</a>.</li>
+  <li><span class="label label-info">01/2024</span> Busy with <a href="https://eccv2024.ecva.net/">ECCV'24</a> Program Chairing... Update: Done as of 10/2024!</li>
+  <li><span class="label label-warning">05/2023</span> Received a <a href="https://research.google/outreach/research-scholar-program/recipients/?category=2023">Google Research Scholar</a> award.</li>
+  <li><span class="label label-warning">04/2023</span> Spent two wonderful weeks in <a href="https://ps.is.tuebingen.mpg.de/">MPI</a> Tübingen.</li>
+  <li><span class="label label-primary">08/2022</span> Our <a href="https://slrtp-2022.github.io/">SLRTP challenge at ECCV'22</a> is online.</li>
+  <li><span class="label label-primary">11/2021</span> Our large-scale sign language dataset <a href="https://www.robots.ox.ac.uk/~vgg/data/bobsl/">BOBSL</a> is public!</li>
+  <li><span class="label label-primary">07/2021</span> Happy to receive funding for my ANR JCJC project <a href="corvis/index.html">CorVis</a> and gifts from Google and Adobe.</li>
+  <li><span class="label label-primary">06/2021</span> Here are <a href="https://docs.google.com/presentation/d/1muZYMYVZEJpKTbJUIVAI1dJr-j7djEAdbL6gQ1-9ySQ/edit?usp=sharing">the few slides on survival tips</a> for the CVPR'21 networking session as promised.</li>
+  <li><span class="label label-primary">03/2021</span> CVPR'21 paper accepted! Check out this <a href="https://www.youtube.com/watch?v=8W92bflvCLc&amp;list=PLIWcpQMZwOyI0vq-dmNGZTGMC-BbyoyN2">Youtube playlist</a> for video summaries of our recent efforts on scaling up sign language recognition at <a href="https://www.robots.ox.ac.uk/~vgg/research/bsl1k/">ECCV'20</a>, <a href="https://www.robots.ox.ac.uk/~vgg/research/bsldict/">ACCV'20</a>, <a href="https://www.robots.ox.ac.uk/~vgg/research/bslattend/">CVPR'21</a>.</li>
+  <li><span class="label label-success">11/2020</span> <a href="https://www.robots.ox.ac.uk/~vgg/research/bsldict/">Best application paper award</a> at ACCV'20!</li>
+  <li><span class="label label-success">09/2020</span> I am honored to have <a href="https://youtu.be/nv6LZ7vm1ic?t=5441">received</a> the <a href="https://ellis.eu/news/ellis-phd-award-2020">ELLIS 2020 PhD Award</a>.</li>
+  <li><span class="label label-success">08/2020</span> We are organizing a <a href="https://preregister.science/">NeurIPS'20 workshop</a> on Preregistration for Machine Learning.</li>
+  <li><span class="label label-success">05/2020</span> I am serving as an Area Chair at CVPR'21 and ACCV'20.</li>
+  <li><span class="label label-success">05/2020</span> I will give a talk at the <a href="https://virtualhumans.mpi-inf.mpg.de/3DPW_Challenge/">3DPW Workshop</a> at ECCV'20.</li>
+  <li><span class="label label-success">03/2020</span> We are organizing a workshop on <a href="https://slrtp.com/">Sign Language Recognition, Translation and Production</a> in <a href="https://eccv2020.eu/">ECCV'20</a>.</li>
+  <li><span class="label label-success">03/2020</span> I received the <a href="http://www.afrif.asso.fr/?p=646">AFRIF 2019 PhD thesis award</a> from the French association for pattern recognition.</li>
+  <li><span class="label label-info">09/2019</span> I will join the <a href="https://imagine-lab.enpc.fr/">IMAGINE</a> team at École des Ponts ParisTech in Fall 2020.</li>
+  <li><span class="label label-info">09/2019</span> I have joined <a href="https://www.robots.ox.ac.uk/~vgg/">VGG</a> at Oxford as a post-doc.</li>
+</ul>
+
+
+<ul class="mb-0" style="list-style-type:none;padding-left:0;">
+  <li><span class="label label-primary">Fall&nbsp; 2024</span> <a href="teaching/recvis24">Object recognition and computer vision</a>, Main Lecturer - MVA Masters</li>
+  <li><span class="label label-primary">Fall&thinsp; 2024</span> <a href="teaching/recvis24">Object recognition and computer vision</a>, Main Lecturer - MVA Masters</li>
+  <li><span class="label label-primary">Fall&ensp; 2024</span> <a href="teaching/recvis24">Object recognition and computer vision</a>, Main Lecturer - MVA Masters</li>
+  <li><span class="label label-primary">Fall&emsp; 2024</span> <a href="teaching/recvis24">Object recognition and computer vision</a>, Main Lecturer - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2023</span> <a href="teaching/recvis23">Object recognition and computer vision</a>, Main Lecturer - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2023</span> <a href="https://moodle.psl.eu/course/view.php?id=13982">Introduction to computer vision</a>, Lecturer - M1, École normale supérieure </li>
+  <li><span class="label label-success">Fall&emsp; 2022</span> <a href="http://www.di.ens.fr/willow/teaching/recvis22/">Object recognition and computer vision</a>, Lecturer - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2022</span> <a href="https://moodle.psl.eu/course/view.php?id=13982">Introduction to computer vision</a>, Lecturer - M1, École normale supérieure </li>
+  <li><span class="label label-success">Fall&emsp; 2021</span> <a href="http://www.di.ens.fr/willow/teaching/recvis21/">Object recognition and computer vision</a>, Lecturer - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2021</span> <a href="https://moodle.ens.psl.eu/course/view.php?id=2766">Introduction to computer vision</a>, Lecturer - M1, École normale supérieure </li>
+  <li><span class="label label-success">Fall&emsp; 2020</span> <a href="http://www.di.ens.fr/willow/teaching/recvis20/">Object recognition and computer vision</a>, Lecturer - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2020</span> <a href="http://imagine.enpc.fr/~aubrym/lectures/introvis20/">Introduction to computer vision</a>, Lecturer - M1, École normale supérieure</li>
+  <li><span class="label label-success">Fall&emsp; 2018</span> <a href="http://www.di.ens.fr/willow/teaching/recvis18/">Object recognition and computer vision</a>, TA - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2017</span> <a href="http://www.di.ens.fr/willow/teaching/recvis17/">Object recognition and computer vision</a>, TA - MVA Masters</li>
+  <li><span class="label label-success">Fall&emsp; 2016</span> <a href="http://www.di.ens.fr/willow/teaching/recvis16/">Object recognition and computer vision</a>, TA - MVA Masters</li>
+  <li><span class="label label-success">Spring 2015</span> <a href="https://www.cmpe.boun.edu.tr/courses/cmpe59j">Computer analysis of human behavior</a>, TA - Masters level - Boğaziçi University</li>
+  <li><span class="label label-success">Spring 2013</span> <a href="https://www.cmpe.boun.edu.tr/courses/cmpe362">Signal processing</a>, TA - Undergraduate level - Boğaziçi University</li>
+  <li><span class="label label-success">Spring 2013</span> <a href="https://www.cmpe.boun.edu.tr/courses/cmpe230">Systems programming</a>, TA - Undergraduate level - Boğaziçi University</li>
+  <li><span class="label label-success">Fall&emsp; 2012</span> <a href="https://www.cmpe.boun.edu.tr/courses/cmpe230">Systems programming</a>, TA - Undergraduate level - Boğaziçi University</li>
+</ul>
+
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
