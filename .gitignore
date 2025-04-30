@@ -15,5 +15,9 @@ package-lock.json
 # Ignore pycharm .idea
 .idea
 
-# Ignore
+# Ignore jupyter temp directories
 .ipynb_checkpoints
+
+# Ignore website building data
+.bundle
+vendor
