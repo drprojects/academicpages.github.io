@@ -1,11 +1,130 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Damien Robert"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+to_ign: <a href="https://www.ign.fr">IGN</a>
+to_ensg: <a href="https://www.ensg.eu/">ENSG</a>
+to_lastig: <a href="https://www.umr-lastig.fr">LASTIG</a>
+to_strudel: <a href="https://www.umr-lastig.fr/strudel">STRUDEL</a>
+to_acte: <a href="https://www.umr-lastig.fr/acte">ACTE</a>
+to_uge:  <a href="https://www.univ-gustave-eiffel.fr">Univ. Gustave Eiffel</a>
+to_crigen: <a href="https://www.engie.com/en/innovation-transition-energetique/centres-de-recherche/crigen">ENGIE Lab
+    CRIGEN</a>
+to_ecovision: <a href="https://dm3l.uzh.ch/en/wegner">EcoVision</a>
+to_uzh: <a href="https://www.uzh.ch/en.html">University of Zurich</a>
+
+to_loic: <a href="https://loiclandrieu.com/">Loïc Landrieu</a>
+to_bruno: <a href="https://www.umr-lastig.fr/bruno-vallet/">Bruno Vallet</a>
+to_hugo: <a href="https://1a7r0ch3.github.io/">Hugo Raguet</a>
+
+to_jan: <a href="https://dm3l.uzh.ch/wegner/group-leader">Jan Dirk Wegner</a>
+to_kaan: <a href="https://kaankaramanofficial.github.io">Kaan Karaman</a>
+to_yuchang: <a href="https://sherryjyc.github.io">Yuchang Jiang</a>
+to_vivien: <a href="https://dm3l.uzh.ch/about-us/members/person?pId=39081">Vivien Sainte Fare Garnot</a>
+to_maria: <a href="https://www.geo.uzh.ch/en/units/ess/staff/mariajsantos.html">Maria João Santos</a>
+to_emilia: <a href="https://dm3l.uzh.ch/about-us/members/person?pId=38596">Emilia Arens</a>
+to_johannes: <a href="https://dm3l.uzh.ch/about-us/members/person?pId=39050">Johannes Dollinger</a>
+to_lukas: <a href="https://dm3l.uzh.ch/about-us/members/person?pId=39082">Lukas Drees</a>
+
+to_elena: <a href="https://www.wsl.ch/en/staff/plekhano">Elena Plekhanova</a>
+to_philipp: <a href="https://www.wsl.ch/de/mitarbeitende/brunp">Philipp Brun</a>
+to_niklaus: <a href="https://www.wsl.ch/de/mitarbeitende/zimmerma">Niklaus Zimmermann</a>
+
+to_sebastien: <a href="https://people.irisa.fr/Sebastien.Lefevre/">Sébastien Lefèvre</a>
+to_cedric: <a href="https://sites.google.com/view/cedricdemonceaux/home">Cédric Demonceaux</a>
+to_patrick: <a href="https://ptrckprz.github.io/">Patrick Pérez</a>
+to_siyu: <a href="https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html">Siyu Tang</a>
+to_duygu: <a href="https://www.duygu-ceylan.com/">Duygu Ceylan</a>
+
+to_deepviewagg_paper: <a href="https://arxiv.org/abs/2204.07548">Paper</a>
+to_deepviewagg_webpage: <a href="https://drprojects.github.io/deepviewagg">Webpage</a>
+to_deepviewagg_code: <a href="https://github.com/drprojects/DeepViewAgg">Code</a>
+to_deepviewagg_video: <a href="https://www.youtube.com/watch?v=SoMKwI863tw">Video</a>
+to_deepviewagg_sota_s3dis: <a
+        href="https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=learning-multi-view-aggregation-in-the-wild">S3DIS</a>
+to_deepviewagg_sota_kitti360: <a
+        href="https://paperswithcode.com/sota/3d-semantic-segmentation-on-kitti-360?p=learning-multi-view-aggregation-in-the-wild">KITTI-360</a>
+
+to_spt_paper: <a href="https://arxiv.org/abs/2306.08045">Paper</a>
+to_spt_webpage: <a href="https://drprojects.github.io/superpoint-transformer">Webpage</a>
+to_spt_code: <a href="https://github.com/drprojects/superpoint_transformer">Code</a>
+to_spt_video: <a href="">Video</a>
+to_spt_sota_s3dis: <a
+        href="https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=efficient-3d-semantic-segmentation-with">S3DIS 6-Fold</a>
+to_spt_sota_kitti360: <a
+        href="https://paperswithcode.com/sota/3d-semantic-segmentation-on-kitti-360?p=efficient-3d-semantic-segmentation-with">KITTI-360 Val</a>
+to_spt_sota_dales: <a
+        href="https://paperswithcode.com/sota/3d-semantic-segmentation-on-dales?p=efficient-3d-semantic-segmentation-with">DALES</a>
+
+to_supercluster_paper: <a href="https://arxiv.org/abs/2401.06704">Paper</a>
+to_supercluster_webpage: <a href="https://drprojects.github.io/supercluster">Webpage</a>
+to_supercluster_code: <a href="https://github.com/drprojects/superpoint_transformer">Code</a>
+
+to_supercluster_paper: <a href="https://arxiv.org/abs/2401.06704">Paper</a>
+to_supercluster_webpage: <a href="https://drprojects.github.io/supercluster">Webpage</a>
+to_supercluster_code: <a href="https://github.com/drprojects/superpoint_transformer">Code</a>
+
+to_ssl4eco_paper: <a href="https://arxiv.org/abs/xxxx.xxxx">Paper</a>
+to_ssl4eco_webpage: <a href="https://plekhanovaelena.github.io/ssl4eco">Webpage</a>
+to_ssl4eco_code: <a href="https://github.com/PlekhanovaElena/ssl4eco">Code</a>
+
+to_climplicit_paper: <a href="https://arxiv.org/abs/2504.05089">Paper</a>
+to_climplicit_webpage: <a href="https://ecovision-uzh.github.io/climplicit">Webpage</a>
+to_climplicit_code: <a href="https://github.com/ecovision-uzh/climplicit">Code</a>
+
+to_gsr4b_paper: <a href="https://arxiv.org/abs/2504.01722">Paper</a>
+to_gsr4b_webpage: <a href="https://ecovision-uzh.github.io/GSR4B">Webpage</a>
+to_gsr4b_code: <a href="https://github.com/kaankaramanofficial/GSR4B">Code</a>
+
+to_lossy_neural_compression_review_paper: <a href="https://www.arxiv.org/abs/2503.01505">Paper</a>
 ---
+
+<p>
+    As a postdoctoral researcher at the {{ page.to_ecovision }} lab at {{ page.to_uzh }}, I collaborate with {{ page.to_jan }} to design deep learning methods for remote sensing and environmental applications.
+    Before joining UZH, I completed my PhD on <i>"Efficient Learning on Large-Scale 3D Point Clouds"</i> at {{ page.to_ign }} and {{ page.to_crigen }}, under the supervision of {{ page.to_loic }} and {{ page.to_bruno }}.
+    <br><br>
+    You like point clouds ☁️ ? You like trees 🌳 ? You like satellites 🛰️ ? You like me 🤗
+</p>
+
+<div class="badges">
+    <img alt="GitHub stars"
+         src="https://img.shields.io/github/stars/idiap/fast-transformers?style=social">
+    <img alt="GitHub forks"
+         src="https://img.shields.io/github/forks/idiap/fast-transformers?style=social">
+</div>
+<div class="software-links">
+    <a href="https://github.com/idiap/fast-transformers">Git</a> /
+    <a href="https://fast-transformers.github.io/">Docs</a>
+</div>
+
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+********************************
+======
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
